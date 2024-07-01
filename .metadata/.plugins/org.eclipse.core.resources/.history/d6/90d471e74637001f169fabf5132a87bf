@@ -1,0 +1,9 @@
+spring.application.name=config-server-micro-service-1
+server.port=8888
+spring.cloud.config.server.git.username=Hari-mani-don
+spring.cloud.config.server.git.password=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
+#spring.cloud.config.server.git.uri=/home/harimani/Microservice/GIT_REPO/configRepo
+spring.cloud.config.server.git.uri=https://github.com/Hari-mani-don/fullProjectOverview/tree/master/src/main/resources
+spring.cloud.config.server.git.default-label=master
+#spring.config.import=configserver:
+#spring.cloud.config.enabled=false

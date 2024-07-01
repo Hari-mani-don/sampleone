@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: config-server-micro-service-1
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/hari-mani-don/sampleone/
+          username: Hari-mani-don
+          password: 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
+					

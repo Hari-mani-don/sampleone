@@ -1,0 +1,3 @@
+spring.application.name=discovery-server-micro-service
+server.port=8761
+er

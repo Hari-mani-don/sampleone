@@ -1,0 +1,2 @@
+spring.application.name=home-micro-service
+spring.cloud.config.uri=

@@ -1,0 +1,10 @@
+package com.google;
+
+@RestController
+public class ProductController {
+
+	@GetMapping("/products")
+	public String product() {
+		return "product";
+	}
+}
